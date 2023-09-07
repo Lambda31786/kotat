@@ -2,7 +2,7 @@ import discord
 from time import sleep
 from sms import SendSms
 
-TOKEN = "MTE0ODQ0MTU2MDY3Mzk2MDAxNg.GcvzJj.h6awoEEyTllRRMn54YQAiinPwGio_b5AgBwqIs"
+TOKEN = "MTE0ODQ0MTU2MDY3Mzk2MDAxNg.GSDJUT.Q8hjuLiJb6rhEWxK4Yo"
 gif = "https://media.tenor.com/SWiGXYOM8eMAAAAC/russia-soviet.gif"
 adet = 50
 saniye = 0
